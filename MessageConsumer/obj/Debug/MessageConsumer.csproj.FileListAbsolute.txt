@@ -1,0 +1,10 @@
+\\psf\home\documents\visual studio 2012\Projects\MessageConsumer\MessageConsumer\bin\Debug\MessageConsumer.exe.config
+\\psf\home\documents\visual studio 2012\Projects\MessageConsumer\MessageConsumer\bin\Debug\MessageConsumer.exe
+\\psf\home\documents\visual studio 2012\Projects\MessageConsumer\MessageConsumer\bin\Debug\MessageConsumer.pdb
+\\psf\home\documents\visual studio 2012\Projects\MessageConsumer\MessageConsumer\bin\Debug\RabbitMQ.Client.dll
+\\psf\home\documents\visual studio 2012\Projects\MessageConsumer\MessageConsumer\bin\Debug\RabbitMQ.Client.xml
+\\psf\home\documents\visual studio 2012\Projects\MessageConsumer\MessageConsumer\obj\Debug\MessageConsumer.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2012\Projects\MessageConsumer\MessageConsumer\obj\Debug\MessageConsumer.exe
+\\psf\home\documents\visual studio 2012\Projects\MessageConsumer\MessageConsumer\obj\Debug\MessageConsumer.pdb
+\\psf\home\documents\visual studio 2012\Projects\MessageConsumer\MessageConsumer\bin\Debug\Data.dll
+\\psf\home\documents\visual studio 2012\Projects\MessageConsumer\MessageConsumer\bin\Debug\Data.pdb

@@ -1,0 +1,6 @@
+\\psf\Home\Documents\Visual Studio 2012\Projects\MessageConsumer\Data\bin\Debug\Data.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\MessageConsumer\Data\bin\Debug\Data.pdb
+\\psf\Home\Documents\Visual Studio 2012\Projects\MessageConsumer\Data\bin\Debug\RabbitMQ.Client.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\MessageConsumer\Data\bin\Debug\RabbitMQ.Client.xml
+\\psf\Home\Documents\Visual Studio 2012\Projects\MessageConsumer\Data\obj\Debug\Data.dll
+\\psf\Home\Documents\Visual Studio 2012\Projects\MessageConsumer\Data\obj\Debug\Data.pdb
